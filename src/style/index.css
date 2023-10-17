@@ -1,5 +1,5 @@
 .filters {
-  background: white;
+  background: lightblue;
   width: 100%;
 }
 .filters li {
@@ -9,7 +9,7 @@
 }
 .filters li label {
   display: block;
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 900;
 }
 .filters li input {
@@ -70,7 +70,7 @@
   position: absolute;
   top: 20px;
   padding: 0;
-  background: #2cdfd3;
+  background: lightblue;
 }
 .widget ul.position-left {
   left: -26px;
